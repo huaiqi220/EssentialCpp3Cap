@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AudioBook.cpp" />
     <ClCompile Include="Book.cpp" />
     <ClCompile Include="LibMat.cpp" />
     <ClCompile Include="OOExample.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AudioBook.h" />
     <ClInclude Include="Book.h" />
     <ClInclude Include="LibMat.h" />
   </ItemGroup>

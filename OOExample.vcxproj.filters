@@ -24,12 +24,18 @@
     <ClCompile Include="Book.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="AudioBook.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LibMat.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Book.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioBook.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
